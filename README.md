@@ -1,6 +1,15 @@
 # Behave-test
 
 # Behave Login Test (Python)
+```
+behave-test-python/
+├── features/
+│   ├── login.feature
+│   └── steps/
+│       └── login_steps.py
+├── requirements.txt
+└── README.md
+```
 
 This is a simple test automation demo using **Behave** (BDD with Gherkin syntax) and **Selenium WebDriver**.
 
