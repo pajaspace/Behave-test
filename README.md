@@ -4,7 +4,7 @@
 
 Project structure
 ```
-behave-test-python/
+behave-login-test-python/
 ├── features/
 │   ├── login.feature
 │   └── steps/
