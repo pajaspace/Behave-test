@@ -1,5 +1,3 @@
-# Behave-test
-
 # Behave Login Test (Python)
 
 Project structure
