@@ -12,8 +12,12 @@ This is a simple test automation demo using **Behave** (BDD with Gherkin syntax)
 ## ▶️ How to run
 
 1. Install dependencies:
-```bash
+```
 pip install -r requirements.txt
-
+```
 2. Run Test
+ ```
+   behave
+ ```
+
 
